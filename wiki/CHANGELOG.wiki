@@ -1,0 +1,10 @@
+#summary Version History
+#labels Featured
+
+*Version 0.4* Improved Error Handling
+
+*Version 0.3* Includes a Swing GUI, greatly improved animated and overlapped subtitle event handling. YUV Colourspace conversion has also been fixed (Cb & Cr were being flipped).
+
+*Version 0.2* supported animation and runs on Windows & Mac OS X.
+
+*Version 0.1* basic Mac OS X support, rendering mid point of events. 
